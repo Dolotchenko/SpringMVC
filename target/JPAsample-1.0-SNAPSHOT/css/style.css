@@ -1,0 +1,75 @@
+
+body{
+    background: #DCDCDC;
+    font-style : oblique;
+}
+.container{
+    margin-top: 60px;
+}
+.marg{margin-top: 20px;}
+.box{
+    opacity: .90;
+    height: 80px;
+    width: 350px;
+    background: #2E8B57;
+    border-radius: 5px;
+    margin-bottom:  5px;
+    text-align: center;
+    line-height:80px;
+}
+.box:hover {  background:#3CB371;}
+.txtsettings{
+
+    margin-top: 60%;
+    color: #fff;
+    font-size: 140%;
+
+}
+
+.footer {
+    background-color: #3CB371;
+    position:fixed;
+    left:0px;
+    bottom:0px;
+    height:60px;
+    width:100%;
+    line-height: 58px;
+
+}
+
+.footer2 {
+
+    margin-top:250px;
+
+}
+.btntest{
+    position:fixed;
+    left:80%;
+    bottom:55px;
+    height:40px;
+    width:100%;
+}
+.btncont{
+    position:absolute;
+    left:80%;
+
+}
+.rowColor{
+    background-color:  #3CB371;
+    text-align: center;
+
+}
+input[type=submit] {
+    width: 15em;  height: 27px;
+}
+select {
+    width: 175px; /* Ширина списка в пикселах */
+}
+.clstbl {
+    border: 2px solid black; /* Рамка вокруг таблицы */
+}
+
+.ttt{
+    vertical-align: bottom;
+}
+
